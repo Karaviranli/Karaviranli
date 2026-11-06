@@ -1,4 +1,4 @@
-<a href="https://eneskaraviranli.codes"><img src="https://eneskaraviranli.codes/og-image.png" alt="Mehmet Enes Karaviranlı — Yazılım Mühendisi" width="100%"></a>
+<a href="https://eneskaraviranli.codes"><img src="https://raw.githubusercontent.com/Karaviranli/eneskaraviranli.codes/main/og-image.png" alt="Mehmet Enes Karaviranlı — Yazılım Mühendisi" width="100%"></a>
 
 # Merhaba, ben Mehmet Enes Karaviranlı 👋
 
